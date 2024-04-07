@@ -1,4 +1,4 @@
-Spark foundation internship
+Spark Foundation Internship
 
 *Task 1*
 
